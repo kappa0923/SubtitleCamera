@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SubtitleCamera</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+</resources>
